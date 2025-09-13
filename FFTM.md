@@ -146,6 +146,15 @@ What once took **hours or days** of computation for basic signal transformation 
 
 Understanding the Fourier Transform and the power of FFT gives us a deeper appreciation for the digital world around us. Whether we’re tuning a guitar, training a speech recognition model, or filtering noise from astronomical data, we are in some sense standing on the shoulders of Fourier.
 
+### References
+
+- W. J. Cooley, P. A. W. Lewis, and P. D. Welch, “Historical Notes on the Fast Fourier Transform,” IEEE Transactions on Audio and Electroacoustics, vol. 15, no. 2, pp. 76–79, 1967
+-  N. Lenssen and D. Needell, “On the Mathematics of Music: From Chords to Fourier Analysis,” Journal of Humanistic Mathematics, vol. 3, no. 1, pp. 85–104, Jan. 2013.
+- A. Tandon and E. Goncharov, “Practical applications of the Fourier analysis to identify pitches and synthesize sounds in music,” Journal of Emerging Investigators, 2025. [Online]. Available: https://emerginginvestigators.org/articles/24-155
+- X. Hong, “Analyzing musical tones with Fourier transformation,” Eurasian Journal of Science and Technology, 2024. [Online]. Available: https://www.ewadirect.com/proceedings/tns/article/view/13401.
+- S. Jessop, “The Historical Connection of Fourier Analysis to Music,” The Mathematics Enthusiast, vol. 14, no. 1, pp. 361–376, 2017.
+-  D. K. Maslen and D. N. Rockmore, “The Cooley–Tukey FFT and Group Theory,” in Groups and Computation III, vol. 8, AMS, 2003, pp. 269–290.
+
 
 
 
